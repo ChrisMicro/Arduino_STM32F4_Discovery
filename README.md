@@ -7,5 +7,7 @@ https://github.com/danieleff/STM32GENERIC
 Installation see:
 https://danieleff.github.io/STM32GENERIC/
 
-
+<p align="left">
+  <img src="/doc/STM32F4_Discovery_Arduino.PNG" width="480"/>
+</p>
 
