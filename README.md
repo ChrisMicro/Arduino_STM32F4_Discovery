@@ -15,7 +15,7 @@ With Arduino-IDE it is now possible for every one.
 
 ## Installation
 
-You have to install the [STM32GENERIC framework](https://github.com/danieleff/STM32GENERIC).
+You have to install the [STM32GENERIC framework](https://github.com/ChrisMicro/STM32GENERIC).
 
 The installatiion instructions you will [find here](https://danieleff.github.io/STM32GENERIC/).
 
